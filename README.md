@@ -9,7 +9,6 @@ Installation\
 Usage\
 Data Sources\
 Contributing\
-License\
 Contact
 
 # Introduction
@@ -32,10 +31,11 @@ Basic understanding of data visualization and Power BI functionalities.
 Clone this repository to your local machine:
 
 Copy code:
-git clone https://github.com/yourusername/data-analysis-dashboard.git
-Open the Power BI Desktop application.\
+git clone https://github.com/BhushanYP/Sales_report_analysis_using_Power_Bi.git
 
-Import the .pbix file located in the Dashboard directory.\
+Open the Power BI Desktop application.
+
+Import the .pbix file located in the Dashboard directory.
 
 Connect to your data sources by following the instructions in the Data Sources section below.
 
@@ -54,15 +54,13 @@ SQL Databases\
 APIs\
 Refer to the documentation within the Data Sources directory for setup instructions for each type.
 
-#Contributing
-We welcome contributions! If you would like to improve the project or fix issues, please follow these steps:\
+# Contributing
+We welcome contributions! If you would like to improve the project or fix issues, please follow these steps:
 
 Fork the repository.\
 Create a new branch for your feature or bug fix.\
 Make your changes and commit them.\
-Push to your branch and submit a pull request.\
-#License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Push to your branch and submit a pull request.
 
-#Contact
-For questions or feedback, please reach out to your.email@example.com.
+# Contact
+For questions or feedback, please reach out to patilbhushan1086@gmail.com.
